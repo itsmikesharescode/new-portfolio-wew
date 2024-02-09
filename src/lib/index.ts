@@ -5,7 +5,7 @@ export const projectDynamicData = writable([
 
     {
         project_title: "Web Based Utang Management System",
-        description: "Proud to present my side project this project aims to solve my mom problem in her mini business where her customer cheats on the items they bought from her the system focus in storing and backuping customer purhcase",
+        description: "Proud to present my side project! This project aims to address a challenge my mom faces in her small business, where some customers unfortunately misrepresent their purchases. The system focuses on securely storing and backing up accurate purchase records, helping my mom prevent dishonest activities and protect her business income.",
 
         youtube_link: "https://www.youtube.com/embed/4YwwNbdAP-w?si=XbtAmEVpnHq0APxx",
      
