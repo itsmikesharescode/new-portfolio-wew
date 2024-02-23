@@ -5,7 +5,7 @@ export const projectDynamicData = writable([
 
     {
         project_title: "Web Based Utang Management System",
-        description: "Proud to present my side project! This project aims to address a challenge my mom faces in her small business, where some customers unfortunately misrepresent their purchases. The system focuses on securely storing and backing up accurate purchase records, helping my mom prevent dishonest activities and protect her business income.",
+        description: "Proud to present my side project! This project aims to address a challenge my mom faces in her small business, where some customers unfortunately misrepresent their purchases. The system focuses on securely storing and backing up accurate purchase records, helping my mom prevent dishonest activities and protect her business income. This will improve soon and will come with mobile native platform for IOS and Android using Flutter Framework.",
 
         youtube_link: "https://www.youtube.com/embed/4YwwNbdAP-w?si=XbtAmEVpnHq0APxx",
      
@@ -90,7 +90,7 @@ export const projectDynamicData = writable([
         project_title: "Enrollment System",
         description: "Proud to present my college capstone project! Though a solo effort, it demonstrates the valuable skills I gained during my collaboration with my team.",
 
-        youtube_link: "https://www.youtube.com/embed/Q_hACPm0tsg?si=g-pFnX9Y3NKgGNCD",
+        youtube_link: "https://www.youtube.com/embed/HdBo_6Dmo90?si=HMpupWh0HzvMiIq8",
      
 
         system_features: [
@@ -103,12 +103,12 @@ export const projectDynamicData = writable([
         resource_link: [
             {
                 link_title: "Live Website",
-                link: "https://shad-cn-enrollment-system-port.vercel.app/"
+                link: "https://enrollment-system-mike.vercel.app/"
             },
 
             {
                 link_title: "Github Link",
-                link: "https://github.com/itsmikesharescode/shad-cn-enrollment-system-port"
+                link: "https://github.com/itsmikesharescode/enrollment-system-full-rewrite"
             },
 
         ],
